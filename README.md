@@ -1,4 +1,4 @@
-# Support for Palestine
+# Support for Palestine 🇵🇸
 
 Open source dataset to track the global support for Palestine. Right now, we're only tracking "demonstrations".
 
